@@ -1,0 +1,6 @@
+in\dataphion\student\services\StudentServiceImpl.class
+in\dataphion\student\model\Student.class
+in\dataphion\student\services\StudentService.class
+in\dataphion\student\controller\StudentController.class
+in\dataphion\student\repositories\StudentRepository.class
+in\dataphion\student\StudentRestApiApplication.class
