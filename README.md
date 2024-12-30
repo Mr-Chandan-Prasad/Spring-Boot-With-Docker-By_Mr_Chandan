@@ -138,12 +138,12 @@ SOFTWARE.
 ---
 
 ## Author
-**[mr Chandan Prasad](https://github.com/Mr-Chandan-Prasad)**  
+**[B V Chandan Prasad](https://github.com/Mr-Chandan-Prasad)**  
 Reach out for questions or collaboration opportunities!
 ```
 
 ### Customization:
-- Replace placeholders like `your-username` and `Your Name` with your GitHub username and name.
+- Replace placeholders like `Mr Chandan Prasad` and `B V CHANDAN PRASAD` with your GitHub username and name.
 - Add any additional project-specific details or instructions if needed.
 
 Let me know if you want me to format or tweak this further!
