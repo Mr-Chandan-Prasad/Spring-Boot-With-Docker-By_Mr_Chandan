@@ -42,12 +42,11 @@ Ensure the following tools are installed on your system:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/Spring-Boot-With-Docker.git
-cd Spring-Boot-With-Docker
+[git clone https://github.com/Mr-Chandan-Prasad/Spring-Boot-With-Docker-By_Mr_Chandan.git)
 ```
 
 ### 2. Build the Application
-Use Maven or Gradle to build the Spring Boot JAR file.
+Use Maven to build the Spring Boot JAR file.
 
 #### Using Maven:
 ```bash
