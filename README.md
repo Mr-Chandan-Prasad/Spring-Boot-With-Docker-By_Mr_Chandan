@@ -54,11 +54,6 @@ Use Maven or Gradle to build the Spring Boot JAR file.
 mvn clean package
 ```
 
-#### Using Gradle:
-```bash
-gradle clean build
-```
-
 The JAR file will be generated in the `target/` directory (Maven) or `build/libs/` directory (Gradle).
 
 ---
