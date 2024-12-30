@@ -138,7 +138,7 @@ SOFTWARE.
 ---
 
 ## Author
-**[Your Name](https://github.com/Mr-Chandan-Prasad)**  
+**[mr Chandan Prasad](https://github.com/Mr-Chandan-Prasad)**  
 Reach out for questions or collaboration opportunities!
 ```
 
